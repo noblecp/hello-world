@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository
+Hello World Repository
+My name is Connor.
